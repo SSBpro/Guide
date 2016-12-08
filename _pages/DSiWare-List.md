@@ -22,3 +22,5 @@ Submissions should have a `.app` size greater than or equal to `3,457,024 bytes`
 |:-:|:-:|:-:|
 | <sub>[SUDOKU](http://www.nintendo.com/games/detail/CjRrWadS0cGKxAavk5NCuSH3UePnqAMb) | <sub>$1.99 | <sub>EUR, USA |
 | <sub>[Rytmik Rock Edition](http://www.nintendo.com/games/detail/Mou2HcAkaUmEBYWPjtoDGjwPZLmnW6Ec) | <sub>$1.99 | <sub>USA |
+| <sub>[Art Academy: First Semester](http://www.nintendo.com/games/detail/SO4beRHnpkZ_jX2CzxurhGnZHiNrPpSc) | <sub>$7.99 | <sub>USA |
+| <sub>[Brain Age Express: Arts & Letters](http://www.nintendo.com/games/detail/pE8kXycBTug31u20uZQCC6FGCGFlxNht) | <sub>$7.99 | <sub>USA |
