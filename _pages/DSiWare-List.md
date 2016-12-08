@@ -22,3 +22,4 @@ Submissions should have a `.app` size greater than or equal to `3,457,024 bytes`
 |:-:|:-:|:-:|
 | <sub>[SUDOKU](http://www.nintendo.com/games/detail/CjRrWadS0cGKxAavk5NCuSH3UePnqAMb) | <sub>$1.99 | <sub>EUR, USA |
 | <sub>[Rytmik Rock Edition](http://www.nintendo.com/games/detail/Mou2HcAkaUmEBYWPjtoDGjwPZLmnW6Ec) | <sub>$1.99 | <sub>USA |
+| <sub>[Inchworm Animation](http://www.nintendo.com/games/detail/iBY3oom1Ii3YRBvcPC_ZfgoQVTAPJJUo) | <sub>$4.99 | <sub>USA |
